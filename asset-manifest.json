@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OASIS-LEVEL-2.1-Calculator/static/css/main.6a049a53.css",
+    "main.js": "/OASIS-LEVEL-2.1-Calculator/static/js/main.1602aac0.js",
+    "index.html": "/OASIS-LEVEL-2.1-Calculator/index.html",
+    "main.6a049a53.css.map": "/OASIS-LEVEL-2.1-Calculator/static/css/main.6a049a53.css.map",
+    "main.1602aac0.js.map": "/OASIS-LEVEL-2.1-Calculator/static/js/main.1602aac0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a049a53.css",
+    "static/js/main.1602aac0.js"
+  ]
+}
